@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FF2B15CE-490F-450E-B968-4D22F0054B2F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>VR_voice_Control</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>963A62D58DCDE223CAD36B2567F58CBD507992A4</key>
+		<string>https://github.com/antocreo/VR_voice_Control_MASTER.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>VR_voice_Control.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>963A62D58DCDE223CAD36B2567F58CBD507992A4</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/antocreo/VR_voice_Control_MASTER.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>963A62D58DCDE223CAD36B2567F58CBD507992A4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>963A62D58DCDE223CAD36B2567F58CBD507992A4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>VR_voice_Control_MASTER</string>
+		</dict>
+	</array>
+</dict>
+</plist>
