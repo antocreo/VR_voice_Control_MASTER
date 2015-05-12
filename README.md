@@ -78,8 +78,9 @@ there are few more key commands that can be checked in the void testApp::keyPres
 ####### Xcode version 6.1.1
 
 It hasn’t been tested for previous versions or other platforms.
-
-The easier way is creating a new project with ‘project generator’ and adding the following addons.
+Download or clone and place the main folder into OF myApps. It should work anywhere as long as the OF_PATH is ../../.. 
+If oyu have problems, the easier way is creating a new project with ‘project generator’ and adding the following addons.
+Then substitute the files contained in src folder. Eventually you might need to delete your previous ofApp.cpp/h and use src testApp.cpp/h.
 
 ###### Addons
  * ofxLeapMotion2
